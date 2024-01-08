@@ -1,0 +1,6 @@
+@MeiliLab.API_HostAddress = http://localhost:5147
+
+GET {{MeiliLab.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
