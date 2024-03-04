@@ -1,0 +1,32 @@
+﻿namespace MeiliLab.API.Models.Enums
+{
+    public enum PropertyType
+    {
+        House,
+        Apartment,
+        Condo,
+        Villa,
+        Townhouse,
+        Cottage,
+        Duplex,
+        Penthouse,
+        Loft,
+        Cabin,
+        Mansion,
+        Bungalow,
+        Chalet,
+        Farmhouse,
+        Studio,
+        MobileHome,
+        TinyHouse,
+        FloatingHome,
+        Treehouse,
+        Castle,
+        Igloo,
+        Tent,
+        Yurt,
+        Houseboat,
+        Camper,
+        Other
+    }
+}
